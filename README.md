@@ -33,7 +33,4 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 - 🐦 [Twitter](https://twitter.com/yourhandle)  
 - ✉️ Email: your.email@example.com  
 
----
-
-Feel free to replace placeholders like **YourGitHubUsername**, **yourprofile**, and **yourportfolio.com** with your actual details. Let me know if you need any modifications! 🚀
-
+--
