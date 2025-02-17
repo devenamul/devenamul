@@ -23,7 +23,8 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 
 ### 🔹 Others  
 - Basic WordPress  
-- Digital Marketing  
+- Digital Marketing
+- Figma
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/enamulsarder-full-stack-webseveloper/)  
