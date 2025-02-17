@@ -30,7 +30,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/enamulsarder-full-stack-webseveloper/)  
 - 🌐 [Portfolio](https://yourportfolio.com)  
 - 🐦 [Twitter](https://twitter.com/yourhandle)  
 - ✉️ Email: your.email@example.com  
