@@ -1,40 +1,41 @@
-### Hi, I'm S M Enamul Haque 👋<br>Who A B.sc in Computer Science Engineer & Diploma in Computer Science Engineer
+# Hi there, I'm [Your Name] 👋
 
-I am a professional Full-Stack Web Developer, WordPress Developer and Digital Marketer. I have been working as a Full-Stack Web Developer, WordPress for 4 years in different Companies. I have achieved the satisfaction of every Company With my uniqueness, industrial creativity. I am a dedicated person to providing the best service and delivering exceptional results to my every Company. 
+## 🚀 About Me
+I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer Science and Engineering**. I have experience building dynamic, scalable, and high-performance web applications using modern technologies.
 
-Besides, I have also worked in digital marketing at times.
- For example :<br> 
-✔️Facebook marketing<br>
-✔️Instagram marketing<br>
-✔️ LinkedIn marketing<br>
-✔️ YouTube marketing<br>
-✔️Twitter marketing<br>
-✔️Pinterest marketing<br>
-✔️Email Marketing(A TO Z)<br>
-✔️Google Analytics
+🎓 **Education:**  
+- 🎓 Diploma in Engineering (Computer Science)  
+- 🎓 BSc in Computer Science and Engineering  
 
+## 🛠️ Tech Stack & Skills
+### 🔹 Frontend Development  
+- HTML, CSS, Bootstrap, Tailwind CSS  
+- JavaScript, TypeScript, jQuery, React  
 
-Skills:<br> 
-✅ HTML/HTML5 <br> 
-✅ CSS/CSS3 <br> 
-✅ Bootstrap <br> 
-✅ jQuery <br>
-✅ JavaScript <br> 
-✅ Java <br>
-✅ React.js <br>
-✅ NEXT JS 
-✅ Node.js <br>
-✅ MYSQL <br> 
-✅ SQL <br>
-✅ Mongo BD <br> 
-✅ Express.JS <br>
-✅ WordPress <br> 
-✅ WooCommerce <br>
-✅ Elementor <br> 
-✅ Social Media Marketing <br>
-✅ Email Marketing  <br> 
-✅Google Analytics
+### 🔹 Backend Development  
+- Node.js, Express  
 
+### 🔹 Databases  
+- MongoDB, MySQL  
 
-### Connect with me:<br> 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/smenamulhaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/smenamulhaque-full-stack-webdeveloper-wordpress-customizer-digital-marketer//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/profile.php?id=100089995545512)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/smenamulhaque23//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/smenamulhaque23)  
+### 🔹 Version Control & Tools  
+- Git, GitHub  
+
+### 🔹 Others  
+- Basic WordPress  
+- Digital Marketing  
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
+- 🌐 [Portfolio](https://yourportfolio.com)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- ✉️ Email: your.email@example.com  
+
+---
+
+Feel free to replace placeholders like **YourGitHubUsername**, **yourprofile**, and **yourportfolio.com** with your actual details. Let me know if you need any modifications! 🚀
+
