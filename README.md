@@ -25,10 +25,6 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 - Basic WordPress  
 - Digital Marketing  
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/enamulsarder-full-stack-webseveloper/)  
 - 🌐 [Portfolio](https://yourportfolio.com)  
