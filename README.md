@@ -29,5 +29,5 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/enamulsarder-full-stack-webseveloper/)  
 - 🌐 [Portfolio](https://yourportfolio.com)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- ✉️ Email: your.email@example.com  
+- 🐦 [Twitter][(https://twitter.com/yourhandle](https://x.com/smenamulhaque23))  
+- ✉️ Email: engenamul2@gmail.com  
