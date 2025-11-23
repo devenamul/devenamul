@@ -24,7 +24,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 ### 🔹 Others  
 - Shopify theme customization and Development  
 - Webflow Design
-- Figma
+- Figma To Website Design
 
 ## 📫 Connect with Me
 - 💼 LinkedIn : https://www.linkedin.com/in/enamul-react-node-mern-developer/  
