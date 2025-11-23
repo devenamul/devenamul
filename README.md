@@ -27,7 +27,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 - Figma
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/enamulsarder-full-stack-webseveloper/)  
-- 🌐 [Portfolio](https://portfolio2-mu-murex.vercel.app/)  
+- 💼 [https://www.linkedin.com/in/enamul-react-node-mern-developer/)  
+- 🌐 [https://enamuldev5.webflow.io/)  
 - 🐦 [Twitter][(https://twitter.com/yourhandle](https://x.com/smenamulhaque23))  
 - ✉️ Email: engrenamul5@gmail.com  
