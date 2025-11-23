@@ -13,7 +13,7 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 - JavaScript, TypeScript, jQuery, React  
 
 ### 🔹 Backend Development  
-- Node.js, Express  
+- Node.js, Express and Python  
 
 ### 🔹 Databases  
 - MongoDB, MySQL  
@@ -22,12 +22,12 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 - Git, GitHub  
 
 ### 🔹 Others  
-- Basic WordPress  
-- Digital Marketing
+- Shopify theme customization and Development  
+- Webflow Design
 - Figma
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/enamulsarder-full-stack-webseveloper/)  
 - 🌐 [Portfolio](https://portfolio2-mu-murex.vercel.app/)  
 - 🐦 [Twitter][(https://twitter.com/yourhandle](https://x.com/smenamulhaque23))  
-- ✉️ Email: engenamul2@gmail.com  
+- ✉️ Email: engrenamul5@gmail.com  
