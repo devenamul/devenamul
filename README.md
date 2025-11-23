@@ -27,7 +27,8 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **Computer
 - Figma To Website Design
 
 ## 📫 Connect with Me
-- 💼 LinkedIn : https://www.linkedin.com/in/enamul-react-node-mern-developer/  
-- 🌐 Portfolio : https://enamuldev5.webflow.io/  
-- 🐦 Twitter : https://twitter.com/yourhandle](https://x.com/smenamulhaque23 
-- ✉️ Email: engrenamul5@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/enamul-react-node-mern-developer/
+- 🌐 Portfolio: https://enamuldev5.webflow.io/
+- 📘 Facebook: https://www.facebook.com/s.m.enamul.haque.55291
+- 🐦 Twitter / X: https://x.com/smenamulhaque23
+- ✉️ Email: engrenamul5@gmail.com
